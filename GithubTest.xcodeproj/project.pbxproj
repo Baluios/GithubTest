@@ -17,6 +17,7 @@
 		9B3FF9BD274D0E0800F55CA4 /* GithubTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3FF9BC274D0E0800F55CA4 /* GithubTestUITests.swift */; };
 		9BCA3566274E50FE00906C88 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BCA3565274E50FE00906C88 /* ViewController1.swift */; };
 		9BCA3568274E537000906C88 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BCA3567274E537000906C88 /* ViewController2.swift */; };
+		9BCA356A274E76FC00906C88 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BCA3569274E76FC00906C88 /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		9B3FF9BE274D0E0800F55CA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9BCA3565274E50FE00906C88 /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 		9BCA3567274E537000906C88 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		9BCA3569274E76FC00906C88 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				9B3FF99B274D0E0600F55CA4 /* ViewController.swift */,
 				9BCA3565274E50FE00906C88 /* ViewController1.swift */,
 				9BCA3567274E537000906C88 /* ViewController2.swift */,
+				9BCA3569274E76FC00906C88 /* ViewController3.swift */,
 				9B3FF99D274D0E0600F55CA4 /* Main.storyboard */,
 				9B3FF9A3274D0E0800F55CA4 /* Assets.xcassets */,
 				9B3FF9A5274D0E0800F55CA4 /* LaunchScreen.storyboard */,
@@ -267,6 +270,7 @@
 			files = (
 				9BCA3568274E537000906C88 /* ViewController2.swift in Sources */,
 				9BCA3566274E50FE00906C88 /* ViewController1.swift in Sources */,
+				9BCA356A274E76FC00906C88 /* ViewController3.swift in Sources */,
 				9B3FF99C274D0E0600F55CA4 /* ViewController.swift in Sources */,
 				9B3FF99A274D0E0600F55CA4 /* AppDelegate.swift in Sources */,
 				9B3FF9A2274D0E0600F55CA4 /* GithubTest.xcdatamodeld in Sources */,
